@@ -1,6 +1,9 @@
 # NFT minting
-
-
+GET THE FULL CODE at DEV branch:
+step 1: select dev branch.
+step 2: click on code on top right section and copy the link.
+step 3: git clone https://github.com/Rohan16204/NFT-Minting-ERC721.git
+HAPPY CODING!!!!!
 
 ## Getting started
 
